@@ -61,6 +61,44 @@
 | 中国乐器协会吴天延访谈（v0 出处） | 中 | https://www.cmia.com.cn/hyzx/4407.html |
 | 卡瓦依官方沿革 | 高 | https://www.kawai.co.jp/company/history/ |
 
+## 陪练暴雷（权威媒体/法院）
+
+| 来源 | 日期 | 可信度 | URL |
+|---|---|---|---|
+| 柚子练琴·澎湃 | 2021-01-25 | 高 | https://m.thepaper.cn/newsDetail_forward_10936749 |
+| 快陪练·界面 | 2023-06-05 | 高 | https://finance.sina.cn/2023-06-05/detail-imywftse4151981.d.html |
+| VIP 陪练 C 轮·36 氪 | 2018-11 | 高 | https://36kr.com/coop/uc/5159533.html |
+| 小音咖·IT 时报/澎湃 | 2023-03-15 | 高 | https://www.thepaper.cn/newsDetail_forward_22307159 |
+| 于斯·网经社 | 2023-06-09 | 中 | https://www.163.com/dy/article/I6PJG6GB0514BOS2.html |
+
+## 智能钢琴
+
+| 来源 | 日期 | 可信度 | URL |
+|---|---|---|---|
+| 小叶子 C+ 轮·音乐周报/京报网 | 2022-06-22 | 中高 | https://wap.bjd.com.cn/news/2022/06/22/10106834.shtml |
+| 小叶子 App 更名·央广网 | 2022-09-16 | 高 | https://edu.cnr.cn/eduzt/jylt/js/yw/20220916/t20220916_526011555.shtml |
+| 小叶子工商·企查查 | 2025 | 低-中 | https://www.qcc.com/crun/20777c138060bbe0e26b5910202c619b.html |
+
+## 海关贸易
+
+| 来源 | 日期 | 可信度 | URL |
+|---|---|---|---|
+| HS 第 92 章税则 | 现行 | 高 | https://www.hs-bianma.com/hs_chapter_92.htm |
+| 华经产业研究院 | 2021-05-14 | 中 | https://www.huaon.com/detail/715596.html |
+| 前瞻（2023H1 金额） | 2024-01-16 | 中 | https://ecoapp.qianzhan.com/detials/240116-f7a5b1ef.html |
+| 观研（2021 海关细分表） | 2022-10 | 中 | https://m.chinabaogao.com/baogao/202210/615210.html |
+| 21 世纪经济报道（二手进口） | 2013-11-23 | 中 | https://business.sohu.com/20131123/n390655073.shtml |
+| 协会 30 周年文（反倾销） | 2019-04-01 | 高 | https://www.cmia.com.cn/xhgz/6666.html |
+
+## 考级报告（中国传媒大学《中国音乐产业发展总报告》）
+
+| 来源 | 日期 | 可信度 | URL |
+|---|---|---|---|
+| 2022 总报告发布稿 | 2023-05-19 | 高 | https://www.cbbr.com.cn/contents/533/85136.html |
+| 2024 总报告·北京日报 | 2024-12-30 | 高 | https://peking.bjd.com.cn/content/s677299e2e4b06b0a5624e7c6.html |
+| 2025 总报告发布稿 | 2025-06-18 | 高 | https://www.sohu.com/a/905518915_121123993 |
+| 消费日报（2014≈120 万） | 2018-12-24 | 中 | https://m.sohu.com/a/284244849_118081 |
+
 ## 全球趋势（复用数据库）
 
 - sit-music-database/LATEST_TRENDS.md（IFPI Global Music Report 2026、Forbes、Soundverse）
