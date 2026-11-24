@@ -102,3 +102,35 @@
 ## 全球趋势（复用数据库）
 
 - sit-music-database/LATEST_TRENDS.md（IFPI Global Music Report 2026、Forbes、Soundverse）
+
+## 国际对照（A1–A4 批 · 访问日期 2026-11-24 · 详 素材/数据/核实草稿/）
+
+| 编号 | 来源 | 日期 | 可信度 | URL |
+|---|---|---|---|---|
+| Y1 | 雅马哈 2025年3月期Q3 決算説明資料（"40万"原句·第9页） | 2025-02-05 | 高 | https://www.yamaha.com/ja/ir/library/presentations/pdf/pres-250205.pdf |
+| Y2 | 雅马哈 2025年3月期 決算説明会資料（FY2025.3 实绩+FY2026.3 预想） | 2025-05-08 | 高 | https://www.yamaha.com/ja/ir/library/presentations/pdf/pres-250508.pdf |
+| K1 | 河合楽器 2026年3月期決算説明会資料 | 2026-05-15 | 高 | https://www2.kawai.co.jp/ir/setsumei_pdf/2026/20260515_2026direx-1.pdf |
+| K2 | 河合楽器 IR 决算资料列表 | — | 高 | https://www.kawai.co.jp/ir/setsumei/ |
+| J1 | 统计年鉴第64回（2015）表 8-23 Excel（2011–2013 钢琴/电子钢琴） | 2015 | 高 | https://www.stat.go.jp/data/nenkan/back64/zuhyou/y0823000.xls |
+| J2 | 统计年鉴第76回（2027）整卷 PDF（"不再单列钢琴"认定） | 2027 | 高 | https://www.stat.go.jp/data/nenkan/76nenkan/pdf/76nenkan.pdf |
+| J3 | 社会生活基本調査（令和3年）結果の概要·調査票A 表４－３（楽器の演奏 行動者率 2016/2021） | 2021 | 高 | https://www.stat.go.jp/data/shakai/2021/pdf/gaiyoua.pdf |
+| S1 | e-나라지표 초·중·고 사교육비 指标页（统计厅同源） | 2026-03-16 更新 | 高 | https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=2697 |
+| S2 | 统计厅·教育部《2019년 초중고 사교육비조사 결과》보도자료 PDF | 2020-03-10 | 高 | https://www.index.go.kr/unity/potal/FileDown.do?seq=13&id=2697&div=1 |
+| M1 | Music Trades Industry Census 专页（钢琴 5 分项；实数付费墙） | 2026 版 | 中（付费墙事实） | https://musictrades.com/music-industry-census-report/ |
+
+- 未成来源（本轮失败留档）：ABRSM 官站（Cloudflare）与 web.archive.org（网络层不可达）、Eurostat PRODCOM（数据集码待重定位）、MCST 문화여가활동조사（stat.mcst.go.kr 不可达）——重试路线见草稿 A4/A3 缺口清单，配额重置窗口 2026-12-02。
+
+## 教育公平（A5 批 · 访问日期 2026-11-24 · 详 素材/数据/核实草稿/A5-教育公平.md）
+
+| 编号 | 来源 | 日期 | 可信度 | URL |
+|---|---|---|---|---|
+| E1 | 教育部 2022 年全国教育事业发展统计公报 | 2023-07 | 高 | https://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202307/t20230705_1067278.html |
+| E2 | 教育部 2023 年公报 | 2024-10 | 高 | https://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202410/t20241024_1159002.html |
+| E3 | 教育部 2024 年公报 | 2025-06 | 高 | https://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202506/t20250611_1193760.html |
+| E4 | 教育部 2025 年公报 | 2026-07 | 高 | https://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html |
+| E5 | 教育部 2024 年教育统计数据·小学专任教师分课程表 | 2026-03 | 高 | https://www.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431395.html |
+| E6 | 教育部 2024 年教育统计数据·初中专任教师分课程表 | 2026-03 | 高 | https://www.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260317_1431183.html |
+| E7 | 中国统计年鉴 2025 表 6-6（城镇人均收支） | 2025 | 高 | https://www.stats.gov.cn/sj/ndsj/2025/html/C06-06.jpg |
+| E8 | 中国统计年鉴 2025 表 6-11（农村人均收支） | 2025 | 高 | https://www.stats.gov.cn/sj/ndsj/2025/html/C06-11.jpg |
+
+- 注：E7/E8 为图片表格，数值由图片读取（草稿 A5 已注明复核建议）；随迁子女"公办校比例"未载于 E1–E4（待补通道见锚点 §14.2）。
