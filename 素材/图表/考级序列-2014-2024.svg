@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Source Han Sans SC, sans-serif">
+  <rect x="0" y="0" width="900" height="500" fill="#ffffff"/>
+  <text x="390" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#111">全国音乐考级人次（2014–2024）</text>
+  <text x="390" y="60" text-anchor="middle" font-size="14.5" fill="#555">单位：万人次 · 全门类口径（非钢琴专列）· 中国传媒大学《中国音乐产业发展总报告》</text>
+
+  <!-- 网格线 -->
+  <line x1="80" y1="313.3" x2="700" y2="313.3" stroke="#e0e0e0" stroke-width="1"/>
+  <line x1="80" y1="246.7" x2="700" y2="246.7" stroke="#e0e0e0" stroke-width="1"/>
+  <line x1="80" y1="180" x2="700" y2="180" stroke="#e0e0e0" stroke-width="1"/>
+  <line x1="80" y1="113.3" x2="700" y2="113.3" stroke="#e0e0e0" stroke-width="1"/>
+
+  <!-- 坐标轴 -->
+  <line x1="80" y1="80" x2="80" y2="380" stroke="#333" stroke-width="1.5"/>
+  <line x1="80" y1="380" x2="700" y2="380" stroke="#333" stroke-width="1.5"/>
+
+  <!-- y 刻度（0–450 万人次，从 0 起） -->
+  <g font-size="14" fill="#333" text-anchor="end">
+    <text x="72" y="385">0</text>
+    <text x="72" y="318">100</text>
+    <text x="72" y="251">200</text>
+    <text x="72" y="185">300</text>
+    <text x="72" y="118">400</text>
+  </g>
+  <g stroke="#333" stroke-width="1">
+    <line x1="76" y1="380" x2="80" y2="380"/>
+    <line x1="76" y1="313.3" x2="80" y2="313.3"/>
+    <line x1="76" y1="246.7" x2="80" y2="246.7"/>
+    <line x1="76" y1="180" x2="80" y2="180"/>
+    <line x1="76" y1="113.3" x2="80" y2="113.3"/>
+  </g>
+  <text x="26" y="230" font-size="14" fill="#333" text-anchor="middle" transform="rotate(-90 26 230)">考级人次（万人次）</text>
+
+  <!-- x 刻度 -->
+  <g stroke="#333" stroke-width="1">
+    <line x1="80" y1="380" x2="80" y2="386"/>
+    <line x1="204" y1="380" x2="204" y2="386"/>
+    <line x1="328" y1="380" x2="328" y2="386"/>
+    <line x1="452" y1="380" x2="452" y2="386"/>
+    <line x1="576" y1="380" x2="576" y2="386"/>
+    <line x1="700" y1="380" x2="700" y2="386"/>
+  </g>
+  <g font-size="14" fill="#333" text-anchor="middle">
+    <text x="80" y="404">2014</text>
+    <text x="204" y="404">2016</text>
+    <text x="328" y="404">2018</text>
+    <text x="452" y="404">2020</text>
+    <text x="576" y="404">2022</text>
+    <text x="700" y="404">2024</text>
+  </g>
+
+  <!-- 缺年段虚线 -->
+  <line x1="80" y1="300" x2="328" y2="275.3" stroke="#555" stroke-width="2" stroke-dasharray="8 6"/>
+  <line x1="390" y1="267.3" x2="514" y2="193.3" stroke="#555" stroke-width="2" stroke-dasharray="8 6"/>
+  <line x1="514" y1="193.3" x2="638" y2="98.8" stroke="#555" stroke-width="2" stroke-dasharray="8 6"/>
+  <!-- 连续锚点年实线 -->
+  <line x1="328" y1="275.3" x2="390" y2="267.3" stroke="#555" stroke-width="2"/>
+  <line x1="638" y1="98.8" x2="700" y2="127" stroke="#555" stroke-width="2"/>
+
+  <!-- 断点记号 -->
+  <g stroke="#555" stroke-width="1.8">
+    <line x1="199" y1="293.7" x2="205" y2="281.7"/>
+    <line x1="205" y1="293.7" x2="211" y2="281.7"/>
+    <line x1="447" y1="236.3" x2="453" y2="224.3"/>
+    <line x1="453" y1="236.3" x2="459" y2="224.3"/>
+    <line x1="571" y1="152.1" x2="577" y2="140.1"/>
+    <line x1="577" y1="152.1" x2="583" y2="140.1"/>
+  </g>
+  <text x="204" y="264" text-anchor="middle" font-size="12.5" fill="#777">2015–2017 无锚点值</text>
+  <text x="452" y="208" text-anchor="middle" font-size="12.5" fill="#777">2020 缺年</text>
+  <text x="576" y="120" text-anchor="middle" font-size="12.5" fill="#777">2022 缺年</text>
+
+  <!-- 锚点：2014 为约值（空心点），其余实心 -->
+  <circle cx="80" cy="300" r="6" fill="#ffffff" stroke="#111" stroke-width="2.5"/>
+  <circle cx="328" cy="275.3" r="6" fill="#111"/>
+  <circle cx="390" cy="267.3" r="6" fill="#111"/>
+  <circle cx="514" cy="193.3" r="6" fill="#111"/>
+  <circle cx="638" cy="98.8" r="6" fill="#111"/>
+  <circle cx="700" cy="127" r="6" fill="#111"/>
+
+  <!-- 关键点数值标注（右缘一律 end 锚点，置于点左侧/下方） -->
+  <text x="92" y="278" font-size="14" font-weight="bold" fill="#111">≈120 万+</text>
+  <text x="92" y="320" font-size="12" fill="#666">（约值 · 空心点）</text>
+  <text x="328" y="260" text-anchor="middle" font-size="14" font-weight="bold" fill="#111">157</text>
+  <text x="390" y="288" text-anchor="middle" font-size="14" font-weight="bold" fill="#111">169</text>
+  <text x="514" y="176" text-anchor="middle" font-size="14" font-weight="bold" fill="#111">280</text>
+  <text x="626" y="92" text-anchor="end" font-size="14" font-weight="bold" fill="#111">421.75（峰值）</text>
+  <text x="706" y="150" text-anchor="end" font-size="14" font-weight="bold" fill="#111">379.58</text>
+  <text x="706" y="170" text-anchor="end" font-size="12" fill="#666">2024 首次下降</text>
+
+  <!-- 脚注分隔线 -->
+  <line x1="50" y1="416" x2="710" y2="416" stroke="#ccc" stroke-width="1"/>
+
+  <!-- 口径脚注（tspan 分行） -->
+  <g font-size="12.5" fill="#444">
+    <text x="50" y="429"><tspan x="50" y="429">口径：全国音乐考级人次＝全门类（非钢琴专列），中国传媒大学《中国音乐产业发展总报告》</tspan><tspan x="50" y="446">历年数据（✅）。〔数据锚点 §9〕「钢琴占全国考级比例无可靠全国估计」——本图不可当作钢琴考级人数。</tspan><tspan x="50" y="463">2014 为「120 万人以上」约值（空心点）；「120 万＝2018」系年份错配，该值归属 2014；</tspan><tspan x="50" y="480">2015–2017、2020 无锚点值，2022 缺年——断线＋∥ 处理；2024 为序列内首次下降。</tspan></text>
+  </g>
+</svg>

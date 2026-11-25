@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Source Han Sans SC, sans-serif">
+  <rect x="0" y="0" width="900" height="500" fill="#ffffff"/>
+  <text x="390" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#111">中国出生人口（2016–2025）</text>
+  <text x="390" y="60" text-anchor="middle" font-size="14.5" fill="#555">单位：万人 · 国家统计局历年公报口径</text>
+
+  <!-- 网格线 -->
+  <line x1="80" y1="305" x2="700" y2="305" stroke="#e0e0e0" stroke-width="1"/>
+  <line x1="80" y1="230" x2="700" y2="230" stroke="#e0e0e0" stroke-width="1"/>
+  <line x1="80" y1="155" x2="700" y2="155" stroke="#e0e0e0" stroke-width="1"/>
+  <line x1="80" y1="80" x2="700" y2="80" stroke="#eaeaea" stroke-width="1"/>
+
+  <!-- 坐标轴 -->
+  <line x1="80" y1="80" x2="80" y2="380" stroke="#333" stroke-width="1.5"/>
+  <line x1="80" y1="380" x2="700" y2="380" stroke="#333" stroke-width="1.5"/>
+
+  <!-- y 刻度（0–2000 万，从 0 起） -->
+  <g font-size="14" fill="#333" text-anchor="end">
+    <text x="72" y="385">0</text>
+    <text x="72" y="310">500</text>
+    <text x="72" y="235">1000</text>
+    <text x="72" y="160">1500</text>
+    <text x="72" y="85">2000</text>
+  </g>
+  <g stroke="#333" stroke-width="1">
+    <line x1="76" y1="380" x2="80" y2="380"/>
+    <line x1="76" y1="305" x2="80" y2="305"/>
+    <line x1="76" y1="230" x2="80" y2="230"/>
+    <line x1="76" y1="155" x2="80" y2="155"/>
+    <line x1="76" y1="80" x2="80" y2="80"/>
+  </g>
+  <text x="26" y="230" font-size="14" fill="#333" text-anchor="middle" transform="rotate(-90 26 230)">出生人口（万人）</text>
+
+  <!-- x 刻度 -->
+  <g stroke="#333" stroke-width="1">
+    <line x1="80" y1="380" x2="80" y2="386"/>
+    <line x1="217.8" y1="380" x2="217.8" y2="386"/>
+    <line x1="355.7" y1="380" x2="355.7" y2="386"/>
+    <line x1="493.6" y1="380" x2="493.6" y2="386"/>
+    <line x1="631.4" y1="380" x2="631.4" y2="386"/>
+    <line x1="700" y1="380" x2="700" y2="386"/>
+  </g>
+  <g font-size="14" fill="#333" text-anchor="middle">
+    <text x="80" y="404">2016</text>
+    <text x="217.8" y="404">2018</text>
+    <text x="355.7" y="404">2020</text>
+    <text x="493.6" y="404">2022</text>
+    <text x="631.4" y="404">2024</text>
+    <text x="700" y="404">2025</text>
+  </g>
+
+  <!-- 2016→2022：缺年段，虚线＋断点记号 -->
+  <line x1="80" y1="112.1" x2="493.6" y2="236.6" stroke="#555" stroke-width="2" stroke-dasharray="8 6"/>
+  <g stroke="#555" stroke-width="1.8">
+    <line x1="281.8" y1="180.4" x2="287.8" y2="168.4"/>
+    <line x1="287.8" y1="180.4" x2="293.8" y2="168.4"/>
+  </g>
+  <text x="287" y="136" text-anchor="middle" font-size="12.5" fill="#777">2017–2021 公报值未列入锚点</text>
+
+  <!-- 2022→2025：连续锚点年，实线 -->
+  <polyline points="493.6,236.6 562.4,244.7 631.4,236.9 700,261.2" fill="none" stroke="#555" stroke-width="2"/>
+
+  <!-- 锚点 -->
+  <circle cx="80" cy="112.1" r="6" fill="#111"/>
+  <circle cx="493.6" cy="236.6" r="6" fill="#111"/>
+  <circle cx="562.4" cy="244.7" r="6" fill="#111"/>
+  <circle cx="631.4" cy="236.9" r="6" fill="#111"/>
+  <circle cx="700" cy="261.2" r="6" fill="#111"/>
+
+  <!-- 关键点数值标注（右缘一律 end 锚点） -->
+  <text x="92" y="104" font-size="15"><tspan font-weight="bold" fill="#111">2016：1786 万</tspan><tspan font-size="12.5" fill="#666">（公报口径；七普修订 1883 万，较公报 +97 万）</tspan></text>
+  <text x="493.6" y="262" text-anchor="middle" font-size="14" font-weight="bold" fill="#111">956 万</text>
+  <text x="562.4" y="270" text-anchor="middle" font-size="14" font-weight="bold" fill="#111">902 万</text>
+  <text x="740" y="196" text-anchor="end" font-size="11.5" fill="#666">「龙年回升」系民间解读 · 公报无此表述</text>
+  <text x="718" y="214" text-anchor="end" font-size="14" font-weight="bold" fill="#111">2024：954 万（+52 万）</text>
+  <text x="700" y="286" text-anchor="end" font-size="14" font-weight="bold" fill="#111">2025：792 万（最新）</text>
+
+  <!-- 脚注分隔线 -->
+  <line x1="50" y1="416" x2="710" y2="416" stroke="#ccc" stroke-width="1"/>
+
+  <!-- 口径脚注（tspan 分行） -->
+  <g font-size="12.5" fill="#444">
+    <text x="50" y="432"><tspan x="50" y="432">口径：国家统计局历年公报（✅）。2016 用公报原文 1786 万；</tspan><tspan x="50" y="450">七普修订口径 1883 万（+97 万），两口径不可混用。〔锚点 §4〕</tspan><tspan x="50" y="468">2024 年 +52 万：「龙年回升」系民间解读，公报原文无此表述——图中仅标注、不作因果解读。</tspan><tspan x="50" y="486">限制：2017–2021 公报值未列入锚点，图中断开（∥ 记号）留白，不得读作零值或插值。</tspan></text>
+  </g>
+</svg>

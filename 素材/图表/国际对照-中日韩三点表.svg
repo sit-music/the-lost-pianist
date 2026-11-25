@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Source Han Sans SC, sans-serif">
+  <rect x="0" y="0" width="900" height="500" fill="#ffffff"/>
+  <text x="400" y="30" text-anchor="middle" font-size="21" font-weight="bold" fill="#111">国际对照：日·中·韩三点表</text>
+
+  <!-- 语法警告横幅 -->
+  <rect x="50" y="42" width="700" height="30" fill="#f5f5f5" stroke="#aaa" stroke-width="1"/>
+  <text x="400" y="62" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#222">语法不同：日/中＝供给端产量，韩＝需求端支出——不可直接对齐、不可同轴比较〔锚点 §13.2〕</text>
+
+  <!-- ================= 面板 A：日本（散点，不插值） ================= -->
+  <text x="145" y="98" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">日本：钢琴产量（万台）</text>
+  <g stroke="#e0e0e0" stroke-width="1">
+    <line x1="50" y1="281.1" x2="240" y2="281.1"/>
+    <line x1="50" y1="217.2" x2="240" y2="217.2"/>
+    <line x1="50" y1="153.3" x2="240" y2="153.3"/>
+  </g>
+  <line x1="50" y1="115" x2="50" y2="345" stroke="#333" stroke-width="1.5"/>
+  <line x1="50" y1="345" x2="240" y2="345" stroke="#333" stroke-width="1.5"/>
+  <g font-size="11.5" fill="#333" text-anchor="end">
+    <text x="44" y="349">0</text>
+    <text x="44" y="285.1">5</text>
+    <text x="44" y="221.2">10</text>
+    <text x="44" y="157.3">15</text>
+  </g>
+  <g stroke="#333" stroke-width="1">
+    <line x1="50" y1="345" x2="50" y2="349"/>
+    <line x1="102.8" y1="345" x2="102.8" y2="349"/>
+    <line x1="155.6" y1="345" x2="155.6" y2="349"/>
+    <line x1="240" y1="345" x2="240" y2="349"/>
+  </g>
+  <g font-size="11.5" fill="#333" text-anchor="middle">
+    <text x="50" y="361">1995</text>
+    <text x="102.8" y="361">2000</text>
+    <text x="155.6" y="361">2005</text>
+    <text x="240" y="361">2013</text>
+  </g>
+  <!-- 轴上断点记号：2000/2005 不接续；2010/2011 不接续 -->
+  <g stroke="#555" stroke-width="1.8">
+    <line x1="124.2" y1="349.5" x2="129.2" y2="340.5"/>
+    <line x1="128.2" y1="349.5" x2="133.2" y2="340.5"/>
+    <line x1="208.6" y1="349.5" x2="213.6" y2="340.5"/>
+    <line x1="212.6" y1="349.5" x2="217.6" y2="340.5"/>
+  </g>
+  <!-- 散点：仅锚点年，不连线 -->
+  <g fill="#ffffff" stroke="#111" stroke-width="2">
+    <circle cx="50" cy="130.3" r="5"/>
+    <circle cx="102.8" cy="171.2" r="5"/>
+    <circle cx="155.6" cy="194.2" r="5"/>
+    <circle cx="208.3" cy="292.6" r="5"/>
+    <circle cx="218.9" cy="296.4" r="5"/>
+    <circle cx="229.4" cy="297.7" r="5"/>
+    <circle cx="240" cy="301.6" r="5"/>
+  </g>
+  <g font-size="13" font-weight="bold" fill="#111">
+    <text x="56" y="124">16.8</text>
+    <text x="108" y="164">13.6</text>
+    <text x="161" y="188">11.8</text>
+    <text x="204" y="286" text-anchor="end">4.1</text>
+  </g>
+  <g font-size="12" font-weight="bold" fill="#111" text-anchor="end">
+    <text x="212" y="310">3.8</text>
+    <text x="226" y="324">3.7</text>
+    <text x="238" y="340">3.4</text>
+  </g>
+  <text x="145" y="390" text-anchor="middle" font-size="11.5" fill="#666">经产省统计年鉴表 8-23｜散点不插值</text>
+
+  <!-- ================= 面板 B：中国（三点散点） ================= -->
+  <text x="399" y="98" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">中国：钢琴产量（万架）</text>
+  <g stroke="#e0e0e0" stroke-width="1">
+    <line x1="305" y1="287.5" x2="493" y2="287.5"/>
+    <line x1="305" y1="230" x2="493" y2="230"/>
+    <line x1="305" y1="172.5" x2="493" y2="172.5"/>
+    <line x1="305" y1="115" x2="493" y2="115"/>
+  </g>
+  <line x1="305" y1="115" x2="305" y2="345" stroke="#333" stroke-width="1.5"/>
+  <line x1="305" y1="345" x2="493" y2="345" stroke="#333" stroke-width="1.5"/>
+  <g font-size="11.5" fill="#333" text-anchor="end">
+    <text x="299" y="349">0</text>
+    <text x="299" y="291.5">10</text>
+    <text x="299" y="234">20</text>
+    <text x="299" y="176.5">30</text>
+    <text x="299" y="119">40</text>
+  </g>
+  <g stroke="#333" stroke-width="1">
+    <line x1="305" y1="345" x2="305" y2="349"/>
+    <line x1="399" y1="345" x2="399" y2="349"/>
+    <line x1="493" y1="345" x2="493" y2="349"/>
+  </g>
+  <g font-size="11.5" fill="#333" text-anchor="middle">
+    <text x="305" y="361">2003</text>
+    <text x="399" y="361">2013</text>
+    <text x="493" y="361">2023</text>
+  </g>
+  <g fill="#ffffff" stroke="#111" stroke-width="2">
+    <circle cx="305" cy="172.5" r="5"/>
+    <circle cx="457" cy="120.75" r="5"/>
+    <circle cx="493" cy="235.75" r="5"/>
+  </g>
+  <text x="313" y="166" font-size="13"><tspan font-weight="bold" fill="#111">30</tspan><tspan font-size="11.5" fill="#666">（首破）</tspan></text>
+  <text x="535" y="144" font-size="13" text-anchor="end"><tspan font-weight="bold" fill="#111">39</tspan><tspan font-size="11.5" fill="#666">（峰值 · 占全球约 75%）</tspan></text>
+  <text x="489" y="232" text-anchor="end" font-size="13" font-weight="bold" fill="#111">约 19</text>
+  <text x="399" y="390" text-anchor="middle" font-size="11.5" fill="#666">协会产量口径｜仅 3 个锚点年｜产量≠销量</text>
+
+  <!-- ================= 面板 C：韩国（需求端，缺年断线） ================= -->
+  <text x="642" y="98" text-anchor="middle" font-size="15" font-weight="bold" fill="#111">韩国：私教育费总盘（兆韩元）</text>
+  <g stroke="#e0e0e0" stroke-width="1">
+    <line x1="555" y1="268.3" x2="730" y2="268.3"/>
+    <line x1="555" y1="191.7" x2="730" y2="191.7"/>
+    <line x1="555" y1="115" x2="730" y2="115"/>
+  </g>
+  <line x1="555" y1="115" x2="555" y2="345" stroke="#333" stroke-width="1.5"/>
+  <line x1="555" y1="345" x2="730" y2="345" stroke="#333" stroke-width="1.5"/>
+  <g font-size="11.5" fill="#333" text-anchor="end">
+    <text x="549" y="349">0</text>
+    <text x="549" y="272.3">10</text>
+    <text x="549" y="195.7">20</text>
+    <text x="549" y="119">30</text>
+  </g>
+  <g stroke="#333" stroke-width="1">
+    <line x1="555" y1="345" x2="555" y2="349"/>
+    <line x1="642.5" y1="345" x2="642.5" y2="349"/>
+    <line x1="730" y1="345" x2="730" y2="349"/>
+  </g>
+  <g font-size="11.5" fill="#333" text-anchor="middle">
+    <text x="555" y="361">2015</text>
+    <text x="642.5" y="361">2020</text>
+    <text x="730" y="361">2025</text>
+  </g>
+  <!-- 缺年段虚线 -->
+  <line x1="555" y1="208.5" x2="607.5" y2="195.5" stroke="#555" stroke-width="2" stroke-dasharray="7 5"/>
+  <line x1="625" y1="184" x2="712.5" y2="121.1" stroke="#555" stroke-width="2" stroke-dasharray="7 5"/>
+  <!-- 连续锚点年实线 -->
+  <line x1="607.5" y1="195.5" x2="625" y2="184" stroke="#555" stroke-width="2"/>
+  <line x1="712.5" y1="121.1" x2="730" y2="134.2" stroke="#555" stroke-width="2"/>
+  <!-- 断点记号 -->
+  <g stroke="#555" stroke-width="1.8">
+    <line x1="576.3" y1="208" x2="582.3" y2="196"/>
+    <line x1="582.3" y1="208" x2="588.3" y2="196"/>
+    <line x1="663.8" y1="158.6" x2="669.8" y2="146.6"/>
+    <line x1="669.8" y1="158.6" x2="675.8" y2="146.6"/>
+  </g>
+  <g fill="#ffffff" stroke="#111" stroke-width="2">
+    <circle cx="555" cy="208.5" r="5"/>
+    <circle cx="607.5" cy="195.5" r="5"/>
+    <circle cx="625" cy="184" r="5"/>
+    <circle cx="712.5" cy="121.1" r="5"/>
+    <circle cx="730" cy="134.2" r="5"/>
+  </g>
+  <g font-size="13" font-weight="bold" fill="#111">
+    <text x="561" y="198">17.8</text>
+    <text x="607.5" y="181" text-anchor="middle">19.5</text>
+    <text x="631" y="205">21.0</text>
+    <text x="704" y="117" text-anchor="end">29.2</text>
+    <text x="726" y="154" text-anchor="end">27.5</text>
+  </g>
+  <text x="642" y="390" text-anchor="middle" font-size="11.5" fill="#666">统计厅·教育部私教育费调查｜需求端</text>
+
+  <!-- 脚注分隔线 -->
+  <line x1="50" y1="414" x2="740" y2="414" stroke="#ccc" stroke-width="1"/>
+
+  <!-- 口径脚注（tspan 分行） -->
+  <g font-size="11.5" fill="#444">
+    <text x="50" y="429"><tspan x="50" y="429">日本断点：2000/2005（年鉴注记「平成12・17年とは接続しない」）；2008/2010 口径变更；</tspan><tspan x="50" y="446">2011–2013 与 2010 不接续。∥＝断点记号。〔锚点 §7〕</tspan><tspan x="50" y="463">韩国缺年：2016–2017、2020–2023 未列入锚点（断线＋∥）；2025＝27.5 兆韩元为近年首降（-5.7%）。〔锚点 §13.2〕</tspan><tspan x="50" y="480">方向裁决：韩国列不支持与日中「供给坍缩」同构；韩为需求端支出序列，与日中产量（供给端）语法不同、幅度不可比。〔锚点 §13.2〕</tspan></text>
+  </g>
+</svg>
