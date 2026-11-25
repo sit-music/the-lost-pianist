@@ -103,13 +103,14 @@
 
 - sit-music-database/LATEST_TRENDS.md（IFPI Global Music Report 2026、Forbes、Soundverse）
 
-## 国际对照（A1–A4 批 · 访问日期 2026-11-24 · 详 素材/数据/核实草稿/）
+## 国际对照（A1–A4 批 · 访问日期 2026-11-24/25 · 详 素材/数据/核实草稿/）
 
 | 编号 | 来源 | 日期 | 可信度 | URL |
 |---|---|---|---|---|
 | Y1 | 雅马哈 2025年3月期Q3 決算説明資料（"40万"原句·第9页） | 2025-02-05 | 高 | https://www.yamaha.com/ja/ir/library/presentations/pdf/pres-250205.pdf |
 | Y2 | 雅马哈 2025年3月期 決算説明会資料（FY2025.3 实绩+FY2026.3 预想） | 2025-05-08 | 高 | https://www.yamaha.com/ja/ir/library/presentations/pdf/pres-250508.pdf |
 | K1 | 河合楽器 2026年3月期決算説明会資料 | 2026-05-15 | 高 | https://www2.kawai.co.jp/ir/setsumei_pdf/2026/20260515_2026direx-1.pdf |
+| Y3 | 雅马哈 2026年3月期 決算説明会資料（FY2026.3 实绩补录：ピアノ 400/中国区 327；"中国が下期増収に転じる"） | 2026-05-11 | 高 | https://www.yamaha.com/ja/ir/library/presentations/pdf/pres-260511.pdf |
 | K2 | 河合楽器 IR 决算资料列表 | — | 高 | https://www.kawai.co.jp/ir/setsumei/ |
 | J1 | 统计年鉴第64回（2015）表 8-23 Excel（2011–2013 钢琴/电子钢琴） | 2015 | 高 | https://www.stat.go.jp/data/nenkan/back64/zuhyou/y0823000.xls |
 | J2 | 统计年鉴第76回（2027）整卷 PDF（"不再单列钢琴"认定） | 2027 | 高 | https://www.stat.go.jp/data/nenkan/76nenkan/pdf/76nenkan.pdf |
