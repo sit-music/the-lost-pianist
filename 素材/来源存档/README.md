@@ -111,6 +111,9 @@
 | Y2 | 雅马哈 2025年3月期 決算説明会資料（FY2025.3 实绩+FY2026.3 预想） | 2025-05-08 | 高 | https://www.yamaha.com/ja/ir/library/presentations/pdf/pres-250508.pdf |
 | K1 | 河合楽器 2026年3月期決算説明会資料 | 2026-05-15 | 高 | https://www2.kawai.co.jp/ir/setsumei_pdf/2026/20260515_2026direx-1.pdf |
 | Y3 | 雅马哈 2026年3月期 決算説明会資料（FY2026.3 实绩补录：ピアノ 400/中国区 327；"中国が下期増収に転じる"） | 2026-05-11 | 高 | https://www.yamaha.com/ja/ir/library/presentations/pdf/pres-260511.pdf |
+| Y4 | 雅马哈 2027年3月期 Q2 決算説明資料（上期 195/通期予想下修 404·中国区 340） | 2026-11-05 | 高 | https://www.yamaha.com/ja/ir/library/presentations/pdf/pres-261105.pdf |
+| K3 | 河合 factsheet FY2027.3 Q2（声学五年金额序列+H1 转正 +5.8%） | 2026-11-12 | 高 | https://www.kawai.co.jp/ir/pdf/20261112_factsheet.xlsx |
+| K4 | 河合 factsheet FY2026.3（五年序列） | 2026-05-14 | 高 | https://www.kawai.co.jp/ir/pdf/20260514_factsheet.xlsx |
 | K2 | 河合楽器 IR 决算资料列表 | — | 高 | https://www.kawai.co.jp/ir/setsumei/ |
 | J1 | 统计年鉴第64回（2015）表 8-23 Excel（2011–2013 钢琴/电子钢琴） | 2015 | 高 | https://www.stat.go.jp/data/nenkan/back64/zuhyou/y0823000.xls |
 | J2 | 统计年鉴第76回（2027）整卷 PDF（"不再单列钢琴"认定） | 2027 | 高 | https://www.stat.go.jp/data/nenkan/76nenkan/pdf/76nenkan.pdf |
