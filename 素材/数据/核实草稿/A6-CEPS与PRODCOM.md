@@ -108,3 +108,7 @@
 
 - 追访八年级学生/家长问卷同栏目可得（已下载八年级学生卷 16 页未逐条核）。
 - 结论：**8.3 所需的"艺术课外参与 × 城乡/流动"交叉分析，CEPS 公开版变量层完全支撑**；剩余唯一动作=实名注册 CSSD 平台（React SPA，须浏览器人工操作）后一键下载公开数据。申请材料草稿（上文）已备好。
+
+## 补记 2（主会话，2026-11-25）：PRODCOM 重试路线第一轮执行完毕，仍未打通
+
+按上文重试路线实测：publications 页为 Liferay 组件（raw HTML 无文件直链）；Statistics Explained 全文检索无 PRODCOM 专文；databrowser search API 与 prod_ds_610 metadata 探针均 404；dissemination 全量 dataflow XML（>5.5MB 未下完）当日网络超时两次。**结论：维持 🔶**。剩余路线：①换快网络拉全量 dataflow XML 后 grep PROD 定位真实数据集码；②浏览器人工打开 Data Browser 查 PRODCOM 年度数据集码；③12-02 配额重置后用搜索引擎找引用 PRODCOM 年度文件的页面。
